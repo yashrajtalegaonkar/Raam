@@ -1,3 +1,24 @@
+# Project Title
+ESP32 Local Device-to-Device Communication Without Internet
+
+## Date
+1 February 2026
+
+## Team / Individual
+Dr MS Swaminathan
+
+## Track / Domain
+Internet of Things (IoT)  
+Embedded Systems  
+Wireless Communication
+
+---
+
+## Problem Statement
+Most IoT systems rely heavily on internet connectivity or centralized routers for communication between devices. In scenarios such as remote locations, disaster zones, highways, or secure industrial environments, internet access may be unavailable or unreliable. There is a need for a robust, low-latency, and direct communication mechanism between IoT devices without dependency on the internet.
+
+---
+
 ## Objective
 To establish a reliable wireless network between two ESP32 development boards and enable direct data transfer between them without using the internet or any external router.
 
@@ -95,4 +116,3 @@ This project successfully demonstrates local, reliable, and efficient communicat
 - Espressif ESP-NOW Documentation
 - ESP32 Technical Reference Manual
 - Arduino ESP32 Core Documentation
-
